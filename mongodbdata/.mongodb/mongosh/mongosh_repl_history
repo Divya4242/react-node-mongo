@@ -1,0 +1,10 @@
+show help
+show hrlp
+show -h
+show -help
+show --help
+show
+show data
+use my_db
+show dbs
+use my_db
